@@ -1,2 +1,6 @@
-# Stutter
-Repeat yourself. A lot.
+Alphabet Soup
+---
+
+Esolang composing isolated micro-machines.
+
+<sup><sup>Name pending</sup></sup>
